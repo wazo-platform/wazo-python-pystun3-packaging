@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pystun3
+Source: https://github.com/talkiq/pystun3
+
+Files: *
+Copyright: 2014-2018 pystun Developers, 2018 TalkIQ
+License: MIT
+
+Files: debian/*
+Copyright: 2022 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
