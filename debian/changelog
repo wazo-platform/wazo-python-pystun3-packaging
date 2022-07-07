@@ -1,3 +1,9 @@
+wazo-python-pystun3-packaging (1.0.0-1~wazo2) wazo-dev-buster; urgency=medium
+
+  * Remove zuul config
+
+ -- Wazo Maintainers <dev@wazo.community>  Thu, 07 Jul 2022 08:36:21 -0400
+
 wazo-python-pystun3-packaging (1.0.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Initial release
