@@ -1,3 +1,9 @@
+wazo-python-pystun3-packaging (1.0.0-1~wazo7) wazo-dev-bullseye; urgency=medium
+
+  * rebuild
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 12 Apr 2023 14:40:59 -0400
+
 wazo-python-pystun3-packaging (1.0.0-1~wazo6) wazo-dev-bullseye; urgency=medium
 
   * Build debian 11
