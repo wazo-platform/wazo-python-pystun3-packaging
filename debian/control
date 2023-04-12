@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 12),
                python3-all,
                python3-setuptools
 Standards-Version: 3.9.6
-X-Python3-Version: >= 3.7
+X-Python3-Version: >= 3.9
 Homepage: https://github.com/talkiq/pystun3
 
 Package: python3-pystun3
